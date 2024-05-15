@@ -204,7 +204,7 @@ body {
 
 .banner {
   position: relative;
-  background-image: url("/images/background/3ewLAKn.png");
+  background-image: url("../images/background/3ewLAKn.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
